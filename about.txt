@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Hepta Slab
+- Font Author: Copyright 2018 The Hepta Slab Project Authors (https://github.com/mjlagattuta/Hepta-Slab)
+- Font Source: http://fonts.gstatic.com/s/heptaslab/v16/ea8JadoyU_jkHdalebHvyWVNdYoIsHe5HvkV5zfbY5B0NBkz.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

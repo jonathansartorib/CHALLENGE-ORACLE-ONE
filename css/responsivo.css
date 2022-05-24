@@ -1,0 +1,69 @@
+/*++RESPONSIVIDADE++*/
+
+@media screen and (max-width: 1040px) {
+
+    .titulo {
+        height: auto;
+    }
+
+    .titulo h1 {
+        margin-left: 50px;
+        text-align: center;
+    }
+
+    .titulo img {
+        left: 15px;
+        height: auto;
+    }
+
+    #input {
+        margin-left: auto;
+        font-size: 20px;
+        width: auto;
+        height: 350px;
+        padding: 30px;
+        border-radius: 50px;
+        position:absolute
+    }
+
+    .botoes_aviso_centro {
+        margin: 0;
+        position: relative;
+        margin-left: auto;
+        margin-top: 450px;
+    }
+
+    .botoes_aviso_centro button {
+        align-items: center;
+        display:inline;
+        
+    }
+
+    #output {
+        margin-top: 700px;
+        margin-left: auto;
+        position: absolute;
+        right: auto;
+        font-size: 20px;
+        width: auto;
+        height: 350px;
+        padding: 30px;
+        border-radius: 20px;
+        background-image: url(../img/pessoa-lupa.png);
+        background-repeat: no-repeat;
+    }
+    
+    #copiar {
+        margin-top: 500px;
+        position: static;
+        align-items: center;
+        margin-left: 20%;
+    }
+
+    .rodape {
+        height: auto;
+        margin-top: 20px;
+        font-size: small;
+    }
+
+}
