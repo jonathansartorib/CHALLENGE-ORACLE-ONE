@@ -15,7 +15,7 @@ body {
 
 .titulo h1{
     text-align: center;
-    color: black;
+    color: darkorange;
     font-size: 40px;
     font-weight: bolder;
     font-family: 'Times New Roman', Times, serif;
@@ -29,7 +29,7 @@ main{
     margin-left: 200px;
     font-size: 20px;
     width: 400px;
-    height: 260px;
+    height: 380px;
     padding: 30px;
     border-radius: 50px;
 }
@@ -49,7 +49,7 @@ main{
     position: absolute;
     right: 200px;
     font-size: 20px;
-    width: 200px;
+    width: 400px;
     height: 380px;
     padding: 30px;
     border-radius: 20px;
@@ -59,6 +59,7 @@ main{
 
 .botoes_aviso_centro{
     margin: 0;
+    margin-top: 20px;
     position: relative;
     margin-left: 200px;
 }
@@ -69,12 +70,6 @@ main{
 	transform: rotate(5deg) scale(1.2); /*20%*/
 }
 
-.aviso{
-    font-size: 20px;
-    padding: 20px;
-    margin-left: 20px;
-    color: white;
-}
 
 #codificar, #decodificar{
     display: inline-block;
@@ -88,9 +83,8 @@ main{
 }
 
 #codificar{
-    background: mediumblue;
+    background: darkorange;
     color: white;
-    
 }
 
 #copiar{
@@ -99,7 +93,7 @@ main{
     width: 140px;
     height: 40px;
     position: absolute;
-    right: 260px;
+    right: 350px;
     bottom: 300px;
     border: none;
     border-radius: 10px;
@@ -113,7 +107,7 @@ main{
 
 .rodape{
     font-family: 'Times New Roman', Times, serif;
-    margin-top: 190px;
+    margin-top: 120px;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
